@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://zengc.xyz/categories/index.html</loc>
-    
-    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://zengc.xyz/friends/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
@@ -72,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://zengc.xyz/galleries/index.html</loc>
+    <loc>http://zengc.xyz/categories/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     
@@ -80,6 +73,13 @@
   
   <url>
     <loc>http://zengc.xyz/tags/index.html</loc>
+    
+    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zengc.xyz/galleries/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     
